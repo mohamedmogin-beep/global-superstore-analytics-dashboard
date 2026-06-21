@@ -236,7 +236,7 @@ AVERAGE(FactSales[Shipping_Cost])
 
 Data Analyst | Odoo Implementor Trainee | Business Intelligence Enthusiast
 
-LinkedIn:[ Add Your LinkedIn Profile](https://www.linkedin.com/in/mohamedmogin/)
+[ Add Your LinkedIn Profile](https://www.linkedin.com/in/mohamedmogin/)
 
 ## Summary
 
