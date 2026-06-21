@@ -240,20 +240,20 @@ Data Analyst | Odoo Implementor Trainee | Business Intelligence Enthusiast
 
 ## Summary
 
-![Summary](images/Summary.png)
+![Summary](Summary.png)
 
 ## Sales Analysis
 
-![Sales](images/Sales.png)
+![Sales](Sales.png)
 
 ## Product Analysis
 
-![Product](images/Product.png)
+![Product](Product.png)
 
 ## Customer Analysis
 
-![Customer](images/Customer.png)
+![Customer](Customer.png)
 
 ## Logistics Analysis
 
-![Logistics](images/Logistics.png)
+![Logistics](Logistics.png)
